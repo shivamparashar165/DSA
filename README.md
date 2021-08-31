@@ -6,6 +6,10 @@ A personal repository which contains implementation of all data structures, pseu
 <a href="https://github.com/shivamparashar165/DSA/blob/main/SimpleLinkedListTraversal.cpp">Simple LinkedList Traversal</a>
 
 ## Algorithms
+<h4>Searching Algorithms</h4>
+<a href="https://github.com/shivamparashar165/DSA/blob/main/linearSearch.cpp">Linear Search</a><br>
+<a href="https://github.com/shivamparashar165/DSA/blob/main/binarySearch.cpp">Binary Search</a><br>
+
 <h4>Sorting Algorithms</h4>
 <a href="https://github.com/shivamparashar165/DSA/blob/main/bubbleSort.cpp">Bubble Sort</a><br>
 <a href="https://github.com/shivamparashar165/DSA/blob/main/selectionSort.cpp">Selection Sort</a><br>
